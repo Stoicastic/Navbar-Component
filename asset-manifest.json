@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://stoicastic.github.io/csb-y0635i/static/css/main.85597705.chunk.css",
+    "main.js": "https://stoicastic.github.io/csb-y0635i/static/js/main.5e9b0a6c.chunk.js",
+    "main.js.map": "https://stoicastic.github.io/csb-y0635i/static/js/main.5e9b0a6c.chunk.js.map",
+    "runtime-main.js": "https://stoicastic.github.io/csb-y0635i/static/js/runtime-main.a0e85df7.js",
+    "runtime-main.js.map": "https://stoicastic.github.io/csb-y0635i/static/js/runtime-main.a0e85df7.js.map",
+    "static/js/2.9e962edd.chunk.js": "https://stoicastic.github.io/csb-y0635i/static/js/2.9e962edd.chunk.js",
+    "static/js/2.9e962edd.chunk.js.map": "https://stoicastic.github.io/csb-y0635i/static/js/2.9e962edd.chunk.js.map",
+    "index.html": "https://stoicastic.github.io/csb-y0635i/index.html",
+    "static/css/main.85597705.chunk.css.map": "https://stoicastic.github.io/csb-y0635i/static/css/main.85597705.chunk.css.map",
+    "static/js/2.9e962edd.chunk.js.LICENSE.txt": "https://stoicastic.github.io/csb-y0635i/static/js/2.9e962edd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e85df7.js",
+    "static/js/2.9e962edd.chunk.js",
+    "static/css/main.85597705.chunk.css",
+    "static/js/main.5e9b0a6c.chunk.js"
+  ]
+}
